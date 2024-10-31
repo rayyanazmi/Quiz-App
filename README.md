@@ -11,11 +11,12 @@ A simple quiz application developed using the Flutter framework and Dart program
 
 ## Screenshots
 
-1. **Start Screen**: [Screenshot 2024-10-31 155600](https://github.com/user-attachments/assets/31f448ad-66c4-47c2-9c05-5ad942df6c97)
+1. **Start Screen**: ![Screenshot 2024-10-31 155600](https://github.com/user-attachments/assets/e534e33e-c51f-44e3-ae0d-d681ae0aef98)
 
-2. **Question Screen**: [Screenshot 2024-10-31 155649](https://github.com/user-attachments/assets/07f5b3c4-2859-40e2-9634-d5ed1fbbef91)
 
-3. **Result Screen**: [Screenshot 2024-10-31 155723](https://github.com/user-attachments/assets/6497cff8-9d5c-4651-a678-0d1a46452bff)
+2. **Question Screen**: ![Screenshot 2024-10-31 155649](https://github.com/user-attachments/assets/8a51a11f-5d6a-4f66-bf9f-74a02a47e0fb)
+
+3. **Result Screen**: ![Screenshot 2024-10-31 155723](https://github.com/user-attachments/assets/17617235-1a1a-46f6-90b6-a129b9440283)
 
 
 ## State Management
