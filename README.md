@@ -1,12 +1,6 @@
-Here's a sample README file for your Flutter Quiz App:
-
----
-
 # Flutter Quiz App
 
 A simple quiz application developed using the Flutter framework and Dart programming language. This project serves as a practice tool for learning about state management in Flutter by implementing Stateless and Stateful widgets.
-
-![App Screenshot](path/to/screenshot.jpg)
 
 ## Features
 
@@ -17,9 +11,12 @@ A simple quiz application developed using the Flutter framework and Dart program
 
 ## Screenshots
 
-1. **Start Screen**: ![Start Screen]()
-2. **Question Screen**: ![Question Screen]()
-3. **Result Screen**: ![Result Screen]()
+1. **Start Screen**: ![Start Screen]![Screenshot 2024-10-31 155600](https://github.com/user-attachments/assets/31f448ad-66c4-47c2-9c05-5ad942df6c97)
+
+2. **Question Screen**: ![Question Screen]![Screenshot 2024-10-31 155649](https://github.com/user-attachments/assets/07f5b3c4-2859-40e2-9634-d5ed1fbbef91)
+
+3. **Result Screen**: ![Result Screen]![Screenshot 2024-10-31 155723](https://github.com/user-attachments/assets/6497cff8-9d5c-4651-a678-0d1a46452bff)
+
 
 ## State Management
 
